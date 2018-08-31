@@ -5,7 +5,7 @@
 </head>
 <body>
 <div>
-<div align="center">
+<div align="left">
 	
 			<h1>Praveen Bidadi Nagesh's Blog </h1>
 </div>
